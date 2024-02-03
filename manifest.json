@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Study Buddy",
+  "version": "1.0",
+  "description": "A Study Buddy powered by Generative AI in the form of a chrome extension to help you navigate the World Wide Web",
+  "permissions": ["storage"],
+  "action": {
+      "default_popup": "popup.html"
+  },
+  "content_scripts": [{
+    "matches": ["<all_urls>"],
+    "js": ["content-script.js"]
+  }]
+}
+
+
