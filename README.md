@@ -1,6 +1,6 @@
 # Study-Buddy
 
-Study-Buddy, your own chrome extension, that utilizes the power of Generative AI to effortlessly condense lengthy online articles into concise summaries
+Study-Buddy, your chrome extension, that utilizes the power of Generative AI to effortlessly condense lengthy online articles into concise summaries. Use this link for a more in-depth guide about installation and usage: https://www.youtube.com/watch?v=-aypTmjVQ3o.
 
 ## Installation
 
@@ -11,7 +11,7 @@ Study-Buddy, your own chrome extension, that utilizes the power of Generative AI
    - Open your command prompt
 
 3. **Navigate to Folder in Command Prompt:**
-   - Navigate to the Study Buddy folder in command prompt
+   - Navigate to the Study Buddy folder in the command prompt
 
 4. **Install Requirements:**
    - Run the following command to install the required dependencies:
